@@ -3,8 +3,8 @@
 I am currently a third-year student in Software Engineering at ESISA with a strong background in software development. I’m always eager to take on new challenges and learn more. I’m looking for new opportunities to grow and contribute to exciting projects in the field of computer science.
 
 ## Education
-- **Bachelor's in Software Engineering** at ESISA *(in progress)* | 2021-2025
-- **High School Diploma in Life and Earth Sciences** with honors | June 2021
+- **Bachelor's in Software Engineering** at ESISA *(in progress)* | 2022-2025
+- **High School Diploma in Mathematical Sciences** with honors | June 2022
 
 ## Skills / Competencies
 - **Programming Languages:** C, C++, Python, Java
