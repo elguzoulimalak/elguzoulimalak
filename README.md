@@ -7,7 +7,7 @@ I am currently a third-year student in Software Engineering at ESISA with a stro
 - **High School Diploma in Mathematical Sciences** with honors | June 2022
 
 ## Skills / Competencies
-- **Programming Languages:** C, C++, Python, Java
+- **Programming Languages:** Java, C#, C, C++, Python,
 - **Web Development:** HTML, CSS, JavaScript, React.js, TailwindCSS
 - **Backend Development:** Flask, Node.js
 - **Database Management:** MySQL, Firebase
