@@ -8,7 +8,7 @@ I am currently a third-year student in Software Engineering at ESISA with a stro
 
 ## Skills / Competencies
 - **Programming Languages:** Java, C#, C, C++, Python,
-- **Web Development:** HTML, CSS, JavaScript, React.js, TailwindCSS
+- **Web Development:** HTML, CSS, JavaScript, React.js
 - **Backend Development:** Flask, Node.js
 - **Database Management:** MySQL, Firebase
 - **Software Development:** Agile (Scrum), UML, Merise
